@@ -1,0 +1,24 @@
+{
+  "name": "headless-irai-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rassi0429/headless-irai-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rassi0429/headless-irai-bot/issues"
+  },
+  "homepage": "https://github.com/rassi0429/headless-irai-bot#readme",
+  "dependencies": {
+    "@types/node": "^18.15.9",
+    "discord.js": "^14.8.0",
+    "typescript": "^5.0.2"
+  }
+}
